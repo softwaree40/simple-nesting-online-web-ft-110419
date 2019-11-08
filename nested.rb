@@ -85,7 +85,7 @@ def adding_matz
         }
      }
 
-    programmer_hash[:yukihiro_matsumoto]
+    programmer_hash[:yukihiro_matsumoto] = [:grace_hopper, :alan_kay, :dennis_ritchie]
 end
 
 def changing_alan
