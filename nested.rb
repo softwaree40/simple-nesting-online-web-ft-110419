@@ -126,6 +126,6 @@ def adding_to_dennis
           :languages => ["C"]
         }
      }
-     programmer_hash[:yukihiro_matsumoto] << [:grace_hopper, :alan_kay, :dennis_ritchie]
+     programmer_hash[:yukihiro_matsumoto] = [:grace_hopper, :alan_kay, :dennis_ritchie]
 
 end
